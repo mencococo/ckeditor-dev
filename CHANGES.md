@@ -6,6 +6,7 @@
 Fixed Issues:
 
 * [#2114](https://github.com/ckeditor/ckeditor-dev/issues/2114): [Autocomplete](https://ckeditor.com/cke4/addon/autocomplete) cannot be initialized before [`instanceReady`](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_editor.html#event-instanceReady).
+* [#1832](https://github.com/ckeditor/ckeditor-dev/issues/1832): Fixed: Drop doesn't always work in Edge.
 
 ## CKEditor 4.10
 
